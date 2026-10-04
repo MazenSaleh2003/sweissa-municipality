@@ -26,6 +26,12 @@
 	<string>$(FLUTTER_BUILD_NUMBER)</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
+	<key>NSCameraUsageDescription</key>
+	<string>التقاط صورة لإرفاقها بطلبك إلى البلدية.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>اختيار صورة لإرفاقها بطلبك إلى البلدية.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>إضافة موقعك إلى الطلب عند اختيارك ذلك.</string>
 	<key>UIApplicationSceneManifest</key>
 	<dict>
 		<key>UIApplicationSupportsMultipleScenes</key>
